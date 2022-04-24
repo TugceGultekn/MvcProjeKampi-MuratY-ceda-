@@ -17,5 +17,6 @@ namespace MvcProjeKampi.Controllers
         {
             return View();
         }
+      
     }
 }
